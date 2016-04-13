@@ -1,0 +1,76 @@
+
+number.png
+size: 1209,992
+format: RGBA8888
+filter: MipMapLinearLinear,Linear
+repeat: none
+number
+  rotate: false
+  xy: 0, 0
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 0
+number
+  rotate: false
+  xy: 258, 0
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 1
+number
+  rotate: false
+  xy: 516, 0
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 2
+number
+  rotate: false
+  xy: 774, 0
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 3
+number
+  rotate: false
+  xy: 1032, 0
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 4
+number
+  rotate: false
+  xy: 0, 496
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 5
+number
+  rotate: false
+  xy: 258, 496
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 6
+number
+  rotate: false
+  xy: 516, 496
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 7
+number
+  rotate: false
+  xy: 774, 496
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 8
+number
+  rotate: false
+  xy: 1032, 496
+  size: 258, 496
+  orig: 258, 496
+  offset: 0, 0
+  index: 9
